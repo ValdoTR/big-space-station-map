@@ -312,7 +312,7 @@
         {
          "columns":40,
          "firstgid":1,
-         "image":"assets\/Celiana-grounds-1.png",
+         "image":"src\/assets\/Celiana-grounds-1.png",
          "imageheight":384,
          "imagewidth":1280,
          "margin":0,
@@ -335,7 +335,7 @@
         {
          "columns":10,
          "firstgid":481,
-         "image":"assets\/Celiana-grounds-2.png",
+         "image":"src\/assets\/Celiana-grounds-2.png",
          "imageheight":192,
          "imagewidth":320,
          "margin":0,
@@ -348,7 +348,7 @@
         {
          "columns":8,
          "firstgid":541,
-         "image":"assets\/Celiana-grounds-walls-square.png",
+         "image":"src\/assets\/Celiana-grounds-walls-square.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -361,7 +361,7 @@
         {
          "columns":16,
          "firstgid":669,
-         "image":"assets\/Celiana-interiors-1.png",
+         "image":"src\/assets\/Celiana-interiors-1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -374,7 +374,7 @@
         {
          "columns":16,
          "firstgid":925,
-         "image":"assets\/Celiana-interiors-2.png",
+         "image":"src\/assets\/Celiana-interiors-2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -387,7 +387,7 @@
         {
          "columns":16,
          "firstgid":1181,
-         "image":"assets\/Celiana-interiors-3.png",
+         "image":"src\/assets\/Celiana-interiors-3.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -400,7 +400,7 @@
         {
          "columns":16,
          "firstgid":1437,
-         "image":"assets\/Celiana-interiors-4.png",
+         "image":"src\/assets\/Celiana-interiors-4.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -413,7 +413,7 @@
         {
          "columns":4,
          "firstgid":1693,
-         "image":"assets\/Celiana-interiors-food.png",
+         "image":"src\/assets\/Celiana-interiors-food.png",
          "imageheight":192,
          "imagewidth":128,
          "margin":0,
@@ -426,7 +426,7 @@
         {
          "columns":24,
          "firstgid":1717,
-         "image":"assets\/Celiana-walls-1.png",
+         "image":"src\/assets\/Celiana-walls-1.png",
          "imageheight":384,
          "imagewidth":768,
          "margin":0,
@@ -439,7 +439,7 @@
         {
          "columns":40,
          "firstgid":2005,
-         "image":"assets\/Celiana-walls-2.png",
+         "image":"src\/assets\/Celiana-walls-2.png",
          "imageheight":576,
          "imagewidth":1280,
          "margin":0,
@@ -452,7 +452,7 @@
         {
          "columns":40,
          "firstgid":2725,
-         "image":"assets\/Celiana-waters.png",
+         "image":"src\/assets\/Celiana-waters.png",
          "imageheight":384,
          "imagewidth":1280,
          "margin":0,
@@ -465,7 +465,7 @@
         {
          "columns":6,
          "firstgid":3205,
-         "image":"assets\/watileset.png",
+         "image":"src\/assets\/watileset.png",
          "imageheight":512,
          "imagewidth":192,
          "margin":0,
@@ -488,7 +488,7 @@
         {
          "columns":12,
          "firstgid":3301,
-         "image":"assets\/neonsigns.png",
+         "image":"src\/assets\/neonsigns.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
@@ -501,7 +501,7 @@
         {
          "columns":10,
          "firstgid":3397,
-         "image":"assets\/Celiana-grounds-2-transparent.png",
+         "image":"src\/assets\/Celiana-grounds-2-transparent.png",
          "imageheight":192,
          "imagewidth":320,
          "margin":0,
