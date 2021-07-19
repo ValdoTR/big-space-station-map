@@ -347,7 +347,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Futuristic large spatial station"
+         "value":"Suitable for up to 50 users.\n\nWe know you always wanted to have your own Spaceship to gather with your friends and have some drinks, or maybe even to host those more important brainstorming sessions. Ladies and gentlemen, We are floating in space!"
         }, 
         {
          "name":"mapImage",
@@ -365,7 +365,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
