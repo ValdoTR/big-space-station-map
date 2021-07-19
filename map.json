@@ -357,7 +357,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Big spacial station"
+         "value":"SpaceShip"
         }, 
         {
          "name":"script",
