@@ -342,7 +342,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Level Design: Jako https:\/\/mapwa.net\/static\/ \n https:\/\/pixanna.nl\/products\/futuristic-tiles\/ \n"
+         "value":"Credits: Jako https:\/\/mapwa.net\/static\/ \nLicence: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
@@ -376,6 +376,12 @@
          "imagewidth":1280,
          "margin":0,
          "name":"Celiana-grounds-1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/pixanna.nl\/products\/futuristic-tiles\/"
+                }],
          "spacing":0,
          "tilecount":480,
          "tileheight":32,
@@ -578,6 +584,12 @@
          "imagewidth":576,
          "margin":0,
          "name":"LimeZu_24_User_Interface_32x32_edited",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/limezu.itch.io\/"
+                }],
          "spacing":0,
          "tilecount":252,
          "tileheight":32,
