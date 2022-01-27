@@ -408,8 +408,8 @@
          "objects":[
                 {
                  "height":0,
-                 "id":6,
-                 "name":"exitUrl1",
+                 "id":7,
+                 "name":"exitNorthURL",
                  "point":true,
                  "properties":[
                         {
@@ -420,24 +420,29 @@
                         {
                          "name":"description",
                          "type":"string",
-                         "value":"A room URL starts with \"\/@\/\""
+                         "value":"A room URL starts with \"\/@\/\".\ne.g.: \"\/@\/my-organization\/my-world\/my-room\""
                         }, 
                         {
                          "name":"label",
                          "type":"string",
-                         "value":"First exit URL"
+                         "value":"North exit URL"
                         }, 
                         {
                          "name":"persist",
                          "type":"bool",
                          "value":true
+                        }, 
+                        {
+                         "name":"writableBy",
+                         "type":"string",
+                         "value":"editor"
                         }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":928,
-                 "y":527
+                 "x":950.666666666667,
+                 "y":552.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -494,7 +499,7 @@
          "y":0
         }],
  "nextlayerid":50,
- "nextobjectid":7,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
         {
